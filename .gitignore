@@ -1,0 +1,10 @@
+# Credentials
+client-secret.json
+token.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
